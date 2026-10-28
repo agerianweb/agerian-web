@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://agerian.eus/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="eu" href="https://agerian.eus/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://agerian.eus/es/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://agerian.eus/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://agerian.eus/en/"/>
+  </url>
+  <url>
+    <loc>https://agerian.eus/es/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="eu" href="https://agerian.eus/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://agerian.eus/es/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://agerian.eus/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://agerian.eus/en/"/>
+  </url>
+  <url>
+    <loc>https://agerian.eus/en/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="eu" href="https://agerian.eus/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://agerian.eus/es/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://agerian.eus/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://agerian.eus/en/"/>
+  </url>
+<url><loc>https://agerian.eus/zerbitzuak/</loc><xhtml:link rel="alternate" hreflang="eu" href="https://agerian.eus/zerbitzuak/"/><xhtml:link rel="alternate" hreflang="es" href="https://agerian.eus/es/servicios/"/><xhtml:link rel="alternate" hreflang="en" href="https://agerian.eus/en/services/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://agerian.eus/en/services/"/></url><url><loc>https://agerian.eus/es/servicios/</loc><xhtml:link rel="alternate" hreflang="eu" href="https://agerian.eus/zerbitzuak/"/><xhtml:link rel="alternate" hreflang="es" href="https://agerian.eus/es/servicios/"/><xhtml:link rel="alternate" hreflang="en" href="https://agerian.eus/en/services/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://agerian.eus/en/services/"/></url><url><loc>https://agerian.eus/en/services/</loc><xhtml:link rel="alternate" hreflang="eu" href="https://agerian.eus/zerbitzuak/"/><xhtml:link rel="alternate" hreflang="es" href="https://agerian.eus/es/servicios/"/><xhtml:link rel="alternate" hreflang="en" href="https://agerian.eus/en/services/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://agerian.eus/en/services/"/></url></urlset>

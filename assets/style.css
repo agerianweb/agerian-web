@@ -337,3 +337,13 @@ html.zd .zh .hero>:not(.wm){opacity:1}
   .mn{width:164px}
   .mlg{font-size:13px;letter-spacing:.14em}
 }
+
+/* ---- lima: mas presencia ---- */
+.lgt a[aria-current],.mlang a[aria-current]{background:var(--lime);color:#000}
+.btn i,.acbt i,.btn.gl img,.btn.gl svg{background:var(--lime);color:#000;fill:#000}
+.fi:not(.on) .fb:after,:root[data-theme=dark] .fi:not(.on) .fb:after{background:var(--lime);color:#000}
+.nv button,:root[data-theme=dark] .nv button{background:var(--lime);color:#000}
+:root[data-theme=dark] .ft .btn i{background:var(--lime);color:#000}
+.sp5l{background:linear-gradient(90deg,rgba(127,127,127,.45),var(--lime))}
+.mn .mv b,.mn .mx i{--x:0}
+.mn.on .mx i{background:var(--lime)}

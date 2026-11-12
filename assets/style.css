@@ -316,3 +316,24 @@ html.zd .zh .hero>:not(.wm){opacity:1}
 .acart .ai{transition:opacity .5s}.acp:not(.on) .acart .ai{opacity:0}
 .acart .ai{z-index:1;width:min(50%,520px)}
 @media(max-width:760px){.acart .ai{width:min(84%,380px)}}
+
+/* ---- lima: color corporativo (toques sutiles) ---- */
+:root{--lime:#c6f432}
+::selection{background:var(--lime);color:#000}
+:focus-visible{outline-color:var(--lime)}
+.lgt a[aria-current],.mlang a[aria-current]{color:var(--lime)}
+.sp5l:after{background:var(--lime)}
+.intro .d{background:var(--lime)}
+.pl1{color:var(--lime)}
+.nv button:not(:disabled):active{box-shadow:0 0 0 4px rgba(198,244,50,.35)}
+.btn:focus-visible,.fb:focus-visible,.mx:focus-visible,.thm:focus-visible,.lgt a:focus-visible{outline:2px solid var(--lime);outline-offset:3px}
+@media(hover:hover) and (pointer:fine){.btn:hover i{background:var(--lime);color:#000}}
+
+/* ---- idioma arriba a la derecha tambien en movil (Instagram incluido) ---- */
+@media(max-width:440px){
+  .lgt{display:flex!important;height:38px;padding:0 3px;gap:0;font-size:11px;letter-spacing:.06em;top:calc(14px + env(safe-area-inset-top,0px));right:12px}
+  .lgt a{padding:5px 5px}
+  .thm{left:12px}
+  .mn{width:164px}
+  .mlg{font-size:13px;letter-spacing:.14em}
+}
